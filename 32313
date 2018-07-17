@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>www.jjwebsite.com</title>
+</head>
+<header>
+<h1 style=" font: italic">Camlin </h1>
+
+
+</header>
+<body>
+<h1>this is a paragraph</h1>
+<p style="color: darkgreen ">   We all love to download movies for free . when a new movie releases , we regularly upload the new movie in our home page .
+</p>
+<p>Just click the following links to download the movie beside it ...
+</p>
+
+
+
+
+</body>
+<h1 style="color: red"
+type="auto"> this is a header </h1>
+<a href="http://www.google.com"
+target="self">click here
+</a>
+<p>
+how to download a movie ?
+to download this movie just open this site and <a href=" https://www.afilmywap.co "target="self">click here</a> .</p>
+<p> and you will be redirected to the official website of movie4me.com .</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<part>
+<h1>this is header two </h1>
+</part>
+</html>
